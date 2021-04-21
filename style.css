@@ -1,0 +1,92 @@
+
+html{
+    font-family: 'Voltaire', sans-serif;
+}
+
+html{
+    background-color: #151515;
+}
+
+nav.menu-nav ul li.btn{
+    list-style-type: none;
+    display: inline-block;
+    margin: 18px;
+}
+
+header{
+    background:radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+nav.menu-nav ul li.btn a{
+    color: #fff;
+}
+
+.anim-nav.menu{
+    background: #333;
+    color: #f1f1f1;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+nav.menu-nav ul li.btn:hover a{
+    color: #000;
+    transition: 0.3s all;
+}
+
+H1.s:hover a{
+    color: blue;
+    transition: 0,3s all;
+}
+
+footer{
+    color: #fff;
+}
+
+p{
+    color: gray
+}
+
+nav.menu-nave ul li.btn{
+    list-style-type: none;
+    margin: 18px;
+}
+
+nav.menu-nave ul li.btn a{
+    color: #fff;
+}
+
+nav.menu-nave ul li.btn:hover a{
+    color: #FF0000;
+    transition: 0.3s all;
+}
+
+H1.q:hover a{
+    color: blue;
+    transition: 0,3s all;
+}
+
+H1.q a{
+    margin-left: 100px;
+}
+
+H1.d:hover a{
+    color: blue;
+    transition: 0,3s all;
+}
+
+H1.d a{
+    margin-left: 20px;
+}
+
+H1.g:hover a{
+    color: blue;
+    transition: 0,3s all;
+}
+
+H1.g a{
+    margin-left: 40px;
+}
+
+h3{
+    color: #FF0000;
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(172,0,0,1) 54%, rgba(255,19,0,1) 100%);
+}
